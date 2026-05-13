@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+spotify_top_1000_tracks.csv
+yearly_popularity_trend.csv
